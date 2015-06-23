@@ -2997,52 +2997,52 @@
       </trans-unit>
       <trans-unit id="f2f8570ddd7b1e7b571311bbf9159efb02571e07">
         <source>Updated</source>
-        <target>Aggiornato</target>
+        <target>Αναβαθμίστηκε</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/descriptionUpdatesSuccess.php</note>
       </trans-unit>
       <trans-unit id="4941675f28fb1ad279b914aae292db1f4944bdf0">
         <source>Upload a digital object</source>
-        <target>Carica un oggetto digitale</target>
+        <target>Φόρτωσε ένα ψηφιακό αντικείμενο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
       <trans-unit id="54a34ef9dacbfee28ee07e3e8e49cddf4d903333">
         <source>Upload error, retry?</source>
-        <target>Errore di caricamento. Riprovare?</target>
+        <target>Λάθος στη φόρτωση. Επαναλάβατε?</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="ce615eb0760939d32599df2e11cdb851b53a1e83">
         <source>Upload is disabled</source>
-        <target>Il caricamento non &#xE8; abilitato</target>
+        <target>Η Φόρτωση δεν είναι &#xE8; ενεργή</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
       <trans-unit id="0fa5edab65b16d70c0d69ad3503f3acdbdf26517">
         <source>Upload limit</source>
-        <target>Limite di caricamento</target>
+        <target>Όριο φόρτωσης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
       <trans-unit id="cbc9ca086772127b7e957d1494323074229f412b">
         <source>Upload limit exceeded</source>
-        <target>Superati i limiti di caricamento</target>
+        <target>Υπερέβη τα όρια της φόρτωσης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/uploadLimitExceededSuccess.php</note>
       </trans-unit>
       <trans-unit id="6a60d27f2abe69321fe9c28e5eccc297da33b099">
         <source>Upload multi-page files as multiple descriptions</source>
-        <target>Vedere i figli come un oggetto digitale composito?</target>
+        <target>Ανεβάστε- Φορτώστε τα αρχεία πολλαπλών σελίδων ως πολλαπλές ονομασίες</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="80c494898ac90610a67c95502d2a56b4af4963f1">
         <source>Uploaded</source>
-        <target>Caricato</target>
+        <target>Φορτώθηκε</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="070e328ec8aa96ddfae89d2e4ba416e187dfb2a4">
         <source>Uploading...</source>
-        <target>In fase di caricamento...</target>
+        <target>Σε διαδικασία φόρτωσης...</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="ff7827bdef5e829d5542b2ad08736f166f3be29e">
         <source>Uploads for &lt;a href="%1%"&gt;%2%&lt;/a&gt; are disabled</source>
-        <target>Non sono abilitati i caricamenti per &lt;a href="%1%"&gt;%2%&lt;/a&gt;.</target>
+        <target>Δεν είναι διαθέσιμη η δυνατότητα φόρτωσης για &lt;a href="%1%"&gt;%2%&lt;/a&gt;.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/addDigitalObjectSuccess.php</note>
       </trans-unit>
       <trans-unit id="5065b95ee85a13e6526f2ef80a03f69f8a1bcc3b">
@@ -3056,37 +3056,37 @@
       </trans-unit>
       <trans-unit id="2764971eb13a1a505b93df836819177745d6b0c1">
         <source>User %1%</source>
-        <target>Utente %1%</target>
+        <target>Χρήστης %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexActorAclSuccess.php</note>
       </trans-unit>
       <trans-unit id="5082f10cda4623dcac09a6c3ba01ce46fec44fc4">
         <source>User details</source>
-        <target>Dettagli sull'utente</target>
+        <target>Λεπτομέριες χρήστη</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="4add9526673d2f59da8606c5efabcec6e06d3b7b">
         <source>User groups</source>
-        <target>Gruppi</target>
+        <target>Ομάδα χρηστών</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="206cddfa4fbc4fbeb850c480aee6e254e482c69b">
         <source>User interface label</source>
-        <target>Etichetta dell'interfaccia utente</target>
+        <target>Ετικέτα UI (διεπαφής χρήστη)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="542fc71480dec743e60c20434ec6dd5838fc4b52">
         <source>User name</source>
-        <target>Nome dell'utente</target>
+        <target>Όνομα χρήστη</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="8dce170de238b1feda2ecd9674ea3ca0d068fbcb">
         <source>Value</source>
-        <target>Valore</target>
+        <target>Τιμή</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="1447890b68241834b984839c5809fb9914575c69">
         <source>View %1%</source>
-        <target>Visualizza %1%</target>
+        <target>Εμφάνιση %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/object/templates/importSuccess.php</note>
       </trans-unit>
       <trans-unit id="7b187ac28ebf064b786d1e3085c6312e0c72b606">
@@ -3096,7 +3096,7 @@
       </trans-unit>
       <trans-unit id="e901340a842b48f8ffa0364ef3c911f4c1a4c47e">
         <source>View full size</source>
-        <target>Visualizza a dimensione intera</target>
+        <target>Εμφάνιση σε πλήρη μέγεθος</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_showCompound.php</note>
       </trans-unit>
       <trans-unit id="18fcc7d5b0dd71e2fd7486a4e2e21b6adb88e54b">
@@ -3106,12 +3106,12 @@
       </trans-unit>
       <trans-unit id="06744fb8b96ab9e0ef383db719e110c014a7bfdb">
         <source>Visible elements</source>
-        <target>Elementi visibili</target>
+        <target>Εμφανής στοιχεία</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="52212f0c524e310b9205e4da7793fad36f4363c5">
         <source>Waiting...</source>
-        <target>In attesa...</target>
+        <target>Σε αναμονή...</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="49ca4becd5dc3f2d57b36cc474fa313a9702ad14">
@@ -3146,7 +3146,7 @@
       </trans-unit>
       <trans-unit id="5397e0583f14f6c88de06b1ef28f460a1fb5b0ae">
         <source>Yes</source>
-        <target>S&#xEC;</target>
+        <target>Ναι&#xEC;</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/itemListAction.class.php</note>
       </trans-unit>
       <trans-unit id="917e570a8a4bd0ac7d268c641cecf74082508bb1">
@@ -3156,12 +3156,12 @@
       </trans-unit>
       <trans-unit id="ae5883a623518731e3e0ce34b99c181ffbe9f069">
         <source>You must enter your email address</source>
-        <target>Devi inserire il tuo indirizzo di posta elettronica</target>
+        <target>Πρέπει να εισάγετε τη διεύθυνση του email σας</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/actions/userMenuComponent.class.php</note>
       </trans-unit>
       <trans-unit id="a60f203f82bc301ad483b81fa9851357231f10fd">
         <source>You must enter your password</source>
-        <target>Devi inserire la tua password</target>
+        <target>Πρέπει να εισάγετε το password σας</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/actions/userMenuComponent.class.php</note>
       </trans-unit>
       <trans-unit id="5b8d7eb4c328e630fac3c1f8df87917cba800edd">
@@ -3171,27 +3171,27 @@
       </trans-unit>
       <trans-unit id="c36d5e6158429222401afa00fc07d09f75b74668">
         <source>Your browser does not have Flash player installed. To import digital objects, please &lt;a href="http://get.adobe.com/flashplayer/"&gt;Download Adobe Flash Player&lt;/a&gt; (requires version 9.0.45 or higher)</source>
-        <target>Flash Player non &#xE8; installato sul tuo browser. Per importare oggetti digitali, si prega di scaricare &lt;a href="http://get.adobe.com/flashplayer/"&gt;Adobe Flash Player&lt;/a&gt; (&#xE8; necessaria la versione 9.0.45 o una superiore)</target>
+        <target>Ο Flash Player δεν &#xE8; έχει εγκατασταθεί στον φυλλομετρητή σας. Για να εισάγετε ψηφιακά αντικείμενα, μπορείτε να κατεβάσετε τον  &lt;a href="http://get.adobe.com/flashplayer/"&gt;Adobe Flash Player&lt;/a&gt; (&#xE8; συνίστατε η έκδοση 9.0.45 ή μια πιο νεότερη)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="94e4bacf21221b860626117bf0b69a4f93ac2d21">
         <source>Your browser does not support JavaScript. See %1%minimum requirements%2%.</source>
-        <target>Il tuo browser non supporta JavaScript. Vedi %1%  requisiti minimi %2%.</target>
+        <target>Ο φυλλομετρητής σου browser δεν υποστηρίζει JavaScript. Δες%1%  ελάχιστες απαιτήσεις%2%.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/multiFileUploadSuccess.php</note>
       </trans-unit>
       <trans-unit id="5971e540d1db1ad60fe77b3f97b48070aea20c28">
         <source>Your password confirmation did not match your password.</source>
-        <target>La password di conferma non corrisponde alla tua password.</target>
+        <target>To password επιβεβαίωσεις δεν ταιριάζει με το password σας.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/passwordEditAction.class.php</note>
       </trans-unit>
       <trans-unit id="53d0bee69b2202d18c59ef084c4c314434e5c621">
         <source>Your password is not strong enough (too short).</source>
-        <target>La tua password non &#xE8; abbastanza robusta (troppo corta).</target>
+        <target>Το password σας δεν  &#xE8; είναι αρκετά ισχυρό (πολύ μικρό).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/passwordEditAction.class.php</note>
       </trans-unit>
       <trans-unit id="36159a378e8c8a08097ad7da6ad47d4299ae6ac0">
         <source>Your password is not strong enough.</source>
-        <target>La tua password non &#xE8; abbastanza robusta.</target>
+        <target>Το password σας δεν &#xE8; είναι αρκετά ισχυρό</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/actions/passwordEditAction.class.php</note>
       </trans-unit>
       <trans-unit id="4b7f6892e0134e4041bca5153ccf325f8954bc08">
@@ -3201,12 +3201,12 @@
       </trans-unit>
       <trans-unit id="a432f47c583b6f5f2985564b4ab2bd8ecd2a165d">
         <source>all matching institutions</source>
-        <target>tutti gli istituti che corrispondono</target>
+        <target>Για όλους τους ενδιαφερόμενους φορείς-υπηρεσίες</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/autocompleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="00dc901744d0815deb433538619d579e669af7a7">
         <source>all matching people &amp; organizations</source>
-        <target>tutte le persone e gli enti che corrispondono</target>
+        <target>tutti le persone e gli enti che corrispondono</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/autocompleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="a5874a93818b5dca4f2ae61ab2fef2ed219b0072">
@@ -3219,42 +3219,42 @@
       </trans-unit>
       <trans-unit id="cffa50a32cb13a240d705317bcec65dd1f31b6ad">
         <source>and</source>
-        <target>e</target>
+        <target>και</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_searchFields.php</note>
       </trans-unit>
       <trans-unit id="731dc4dc120c8926b60a9ee890a1c480f6095346">
         <source>for %repo%</source>
-        <target>per %repo%</target>
+        <target>για %repo%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/_uploadLimit.php</note>
       </trans-unit>
       <trans-unit id="af10ef20dd9060bbeead0afbc55381a66af442ef">
         <source>in</source>
-        <target>in</target>
+        <target>μέσα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_searchFields.php</note>
       </trans-unit>
       <trans-unit id="d436a3f40e3ecce896010be99dcf00a577b909aa">
         <source>inactive</source>
-        <target>non attivo</target>
+        <target>όχι ενεργό</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="557f255516719ea16f8f4a0aae1166054e2c9b43">
         <source>not</source>
-        <target>non</target>
+        <target>δεν</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_searchFields.php</note>
       </trans-unit>
       <trans-unit id="1758356db21759f7c5a0da9b4dd1db8fd6feab3f">
         <source>or</source>
-        <target>o</target>
+        <target>ή</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_searchFields.php</note>
       </trans-unit>
       <trans-unit id="4374aaee247fb237ce6c97d5c8d64bbe474d16de">
         <source>to</source>
-        <target>a</target>
+        <target>σε</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_datesFacet.php</note>
       </trans-unit>
       <trans-unit id="8af56de68279cb6f5ed022f31af18b9fcdcc2e92">
         <source>you</source>
-        <target>tu</target>
+        <target>εσείς</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/listSuccess.php</note>
       </trans-unit>
     </body>
