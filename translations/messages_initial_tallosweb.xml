@@ -6,7 +6,7 @@
     <body>
       <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8">
         <source>"Record, when relevant, the start and the end date of the relationship." (ISDF 6.3) Enter the date as you would like it to appear in the show page for the function, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target>"Εγγραφή, ove rilevante, la data d'inizio e di fine della relazione" (ISDF 6.3). Inserire la data cos&#xEC; come si vuole che appaia nella pagina di presentazione della funzione, usando eventualmente qualificatori o simboli tipografici per esprimere incertezza.</target>
+        <target>"Εγγραφή, όταν σχετίζεταιove rilevante, la data d'inizio e di fine della relazione" (ISDF 6.3). Inserire la data cos&#xEC; come si vuole che appaia nella pagina di presentazione della funzione, usando eventualmente qualificatori o simboli tipografici per esprimere incertezza.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="d08f88df745fa7950b104e4a707a31cfce7b5841">
