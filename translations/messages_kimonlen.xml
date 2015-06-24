@@ -2057,7 +2057,7 @@
       </trans-unit>
       <trans-unit id="ec149016869c4285982e5cdbb68019e278c48d84">
         <source>Provide a link to an external website or an internal, symfony path (module/action).</source>
-        <target>Δώστε ένα σύνδεσμο σε ένα εξωτερικό  ιστότοπο ή σε ένα εσωτερικό σύμφωνο μονοπάτι (κομμάτι/δράση).</target>
+        <target>Δώστε ένα σύνδεσμο σε ένα εξωτερικό ιστότοπο ή σε ένα εσωτερικό αρμονικό μονοπάτι (κομμάτι/δράση).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="95e940c24cccefabadac9248368a68af394a44a3">
@@ -2067,42 +2067,42 @@
       </trans-unit>
       <trans-unit id="843df52a67f0bcaecd854ec6e0141454859b0f72">
         <source>Provide an internal menu name.  This is not visible to users.</source>
-        <target>Fornisci un nome di menu interno. Questo non sar&#xE0; visibile agli utenti.</target>
+        <target>Δώστε ένα εσωτερικό όνομα μενού. Αυτό δεν είναι&#xE0; ορατό στους χρήστες.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="c40d1f40659c35c988027dc0259054315335b03c">
         <source>Publication notes</source>
-        <target>Note di pubblicazione</target>
+        <target>Σημειώσεις έκδοσης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="084ea620d93fcf80f10d7a8277a855e3957bda61">
         <source>Publication status</source>
-        <target>Stato della pubblicazione</target>
+        <target>Κατάσταση δημοσίευσης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_adminInfo.php</note>
       </trans-unit>
       <trans-unit id="47de9e6e7621d452722061214cda24399ef01229">
         <source>Publication status (%1% only)</source>
-        <target>Stato di pubblicazione (solo %1%)</target>
+        <target>Κατάσταση δημοσίευσης (μόνο %1%)</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/descriptionUpdatesSuccess.php</note>
       </trans-unit>
       <trans-unit id="483bf2075c12023a5e849d12a42027be89c5e94b">
         <source>Published</source>
-        <target>Pubblicato</target>
+        <target>Δημοσιευμένο</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="33b7df15e4b84d755d4270e66d56eabee7eac74b">
         <source>Publisher's series area</source>
-        <target>Area della serie editoriale</target>
+        <target>Περιοχή σειράς εκδότη</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="4b4e155ec7ba26f7cfed8ea10bd6ca44fb26f995">
         <source>Quick links</source>
-        <target>Collegamenti veloci</target>
+        <target>Γρήγοροι σύνδεσμοι</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/_quickLinksMenu.php</note>
       </trans-unit>
       <trans-unit id="3c4cdb328f1008db6ec7f064d4a9f225c0ecd6f0">
         <source>Quick search</source>
-        <target>Ricerca veloce</target>
+        <target>Ταχεία αναζήτηση</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_treeView.php</note>
       </trans-unit>
       <trans-unit id="364156309502cc3dfb137be750f89299d3479581">
@@ -2115,22 +2115,22 @@
       </trans-unit>
       <trans-unit id="6359dac5e21a300db2b84d54cf9f7c483a288375">
         <source>RAD, July 2008 version. Canadian Council of Archives</source>
-        <target>RAD, July 2008 version. Canadian Council of Archives</target>
+        <target>RAD,έκδοση Ιουλίου 2008. Καναδικό Συμβούλιο των Αρχείων</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsDefaultTemplateForm.class.php</note>
       </trans-unit>
       <trans-unit id="9ada3810ef0ea05f78ef31f77cbb205579bc693a">
         <source>RT %1%</source>
-        <target>RT (termine correlato) %1%</target>
+        <target>RT (Όρος σχετικός) %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="601dcc1c87c313fd30ce84fe78d832c726dc750e">
         <source>Read only</source>
-        <target>Solo lettura</target>
+        <target>Ανάγνωση μόνο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ec177c36f9020b04d5735612ec19d256e5929b12">
         <source>Record a citation to, and/or information about a publication that is about or based on the use, study, or analysis of the unit of description. Include references to published facsimiles or transcriptions. (ISAD 3.5.4)</source>
-        <target>"Citare o fornire informazioni sulle pubblicazioni che si riferiscono all'unit&#xE0; di descrizione o sono basate sullo studio, sull'analisi o su qualche altra forma di utilizzazione dell'unit&#xE0;. Includere riferimenti a facsimili o a trascrizioni edite" (ISAD 3.5.4).</target>
+        <target>"Για να παραπέμψετε και/ή πληροφορίες σχετικά με δημοσίευση η οποία είναι σχετικά ή βασίζεται στην χρήση, μελέτη ή ανάλυση της μονάδας περιγραφής&#xE0; Περιλαμβάνει αναφορές σε δημοσιευμένες πανομοιότυπες ή μεταγραφές&#xE0;. (ISAD 3.5.4).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="5abafdf357f92215784bc8ce12a4ef41f2cf56cc">
@@ -2139,17 +2139,17 @@
       </trans-unit>
       <trans-unit id="b5ed865bd130aa9047b8cc4b5d512e2ca1ab7d23">
         <source>Record notes on sources consulted in preparing the description and who prepared it. (ISAD 3.7.1)</source>
-        <target>"Indicare l'autore della descrizione e le fonti consultate" (ISAD 3.7.1).</target>
+        <target>"Καταγράφει σημειώσεις σε συμβουλευτικές πηγές στην προετοιμασία της περιγραφής και ποιός τα προετοίμασε (ISAD 3.7.1).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="53acccead279f0e87c4051db5cefa6dbe4ec049f">
         <source>Record specialized or other important information not accommodated by any of the defined elements of description. (ISAD 3.6.1)</source>
-        <target>"Registrare informazioni particolari o comunque rilevanti, che non trovino adeguata collocazione in alcun altro elemento descrittivo" (ISAD 3.6.1).</target>
+        <target>"Εξειδικευμένες καταγραφές ή άλλες σημαντικές πληροφορίες, δεν φιλοξενούνται από κάποιο από τα ορισμένα στοιχεία περιγραφών (ISAD 3.6.1).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="63c296933a55bb7904726cbbac42dee2fb4b25c8">
         <source>Record the name(s) of the person(s) who created or revised the description, as well as the creation or revision date. (DACS 8.1.5)</source>
-        <target>"Indicare i nomi delle persone che hanno creato o revisionato la descrizione, nonch&#xE9; le date di creazione e revisione" (DACS 8.1.5).</target>
+        <target>"Καταγράφει το όνομα των προσώπων που δημιούργησαν ή αναθεώρησαν την περιγραφή, καθώς και&#xE9; την ημερομηνία δημιουργίας ή αναθεώρησης (DACS 8.1.5).</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/notesComponent.class.php</note>
       </trans-unit>
       <trans-unit id="fd1d852554e983966a26cf21804b036be93232ba">
@@ -2158,27 +2158,27 @@
       </trans-unit>
       <trans-unit id="b2acd6af73c4ceb26f6c5c2b296adafd8ee013d6">
         <source>Reference code</source>
-        <target>Codice di riferimento</target>
+        <target>Κώδικας αναφοράς</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/itemListAction.class.php</note>
       </trans-unit>
       <trans-unit id="1b71aaeef4ba63eac38b64a29f4f2838bbdee13b">
         <source>Reference code separator</source>
-        <target>Separatore del codice di riferimento</target>
+        <target>Διαχωριστής κώδικα αναφοράς</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="0f217179940c6d89f5cb2c7002a58d91ab7286c1">
         <source>Region</source>
-        <target>Regione</target>
+        <target>Περιοχή</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_contactInformation.php</note>
       </trans-unit>
       <trans-unit id="29b0781107504a5893937e90287694790cd66423">
         <source>Region/province</source>
-        <target>Regione/Provincia</target>
+        <target>Περιοχή/επαρχία</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="dda7aef86122210d6495bec5a7c1af369d1ee879">
         <source>Related contact information</source>
-        <target>Informazioni su un contatto collegato</target>
+        <target>Σχετικές πληροφορίες επικοινωνίας</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/contactinformation/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="e1703ea7fdcf19971a7bb162de802f44852f145a">
@@ -2191,32 +2191,32 @@
       </trans-unit>
       <trans-unit id="eb2d383efa10e189289395d07a40bd3779103529">
         <source>Related people and organizations</source>
-        <target>Persone ed enti collegati</target>
+        <target>Σχετιζόμενοι άνθρωποι και οργανισμοί</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_nameAccessPoints.php</note>
       </trans-unit>
       <trans-unit id="872b7dbd0a325ae18a120f83735d74bdf34005a1">
         <source>Related places</source>
-        <target>Luoghi collegati</target>
+        <target>Σχετιζόμενα μέρη</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_placeAccessPoints.php</note>
       </trans-unit>
       <trans-unit id="af37119e89ab5e671b28740aaa9741b7dd676656">
         <source>Related resources</source>
-        <target>Risorse collegate</target>
+        <target>Σχετιζόμενοι πόροι</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/physicalobject/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="134800bdbb616de7344eefeee60173c197a54969">
         <source>Related right</source>
-        <target>Diritto collegato</target>
+        <target>Σχετιζόμενα δικαιώματα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_right.php</note>
       </trans-unit>
       <trans-unit id="5f1e6361840968a0baca7e1f7ddd31e1f0cab45c">
         <source>Related subjects</source>
-        <target>Soggetti collegati</target>
+        <target>Σχετιζόμενα υποκείμενα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_subjectAccessPoints.php</note>
       </trans-unit>
       <trans-unit id="78c22b696920bd56f1a5edf625c2d8d0e22bf6b6">
         <source>Related term(s)</source>
-        <target>Termini collegati</target>
+        <target>Σχετιζόμενοι όροι</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="eb421d50ed8543dd4bdf37c9b8ff2509e4f84dea">
@@ -2225,122 +2225,122 @@
       </trans-unit>
       <trans-unit id="229981dd1dc44fcc3bf72493583bb63fa236cecf">
         <source>Relationships</source>
-        <target>Relazioni</target>
+        <target>Σχέσεις</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="88bc3fe3daddee139809d036f18b985fbe165957">
         <source>Reports</source>
-        <target>Rapporti</target>
+        <target>Αναφορές</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/fileListError.php</note>
       </trans-unit>
       <trans-unit id="312386841084261c610413fa4de8b7505f469407">
         <source>Repository</source>
-        <target>Deposito</target>
+        <target>Αποθετήριο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/descriptionUpdatesSuccess.php</note>
       </trans-unit>
       <trans-unit id="9e3bf8a65c8d74ebd89e045fc671289473cecba0">
-        <source>Repository affiliation</source>
+        <source>Αποθετήριο προσχώρησης</source>
         <target>Affiliazione del deposito</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="a75dfe6efd6ee90b0cf31c7b23fb02f3c77ca7dd">
         <source>Require SSL for all administrator funcionality</source>
-        <target>Richiedi il protocollo SSL per tutte le funzioni di amministrazione</target>
+        <target>Απαιτείται SSL για πλήρη λειτουργικότητα διαχειριστή</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="96d0b83c87240246f808996e2cdc5bdee63b4cd8">
         <source>Require SSL for all administrator functionality</source>
-        <target>Richiedi il protocollo SSL per tutte le funzioni di amministrazione</target>
+        <target>Απαιτείται SSL για πλήρη λειτουργικότητα διαχειριστή</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsSecurityForm.class.php</note>
       </trans-unit>
       <trans-unit id="2f7513657ba7cafee5dfd8e46b81cd9002e5bcc0">
         <source>Require strong passwords</source>
-        <target>Richiedi password robuste</target>
+        <target>Απαιτείται ισχυρός κωδικός ασφαλείας</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsSecurityForm.class.php</note>
       </trans-unit>
       <trans-unit id="1adeeae8555a2b1ea4bcd3fc8c19acca3c3bcdb4">
         <source>Requirements: PNG format, 256K max. size.&lt;br /&gt;Recommended dimensions of %1%x%2%px, it will be cropped if ImageMagick is installed.</source>
-        <target>Requisiti: formato PNG, dimensione massima 256Kb. &lt;br/&gt; Dimensioni consigliate: %1%%2% pixel. L'immagine sar&#xE0; tagliata se &#xE8; installato ImageMagick.</target>
+        <target>Απαιτούμενα: μορφή PNG, μέγιστη διάσταση 256Kb. &lt;br/&gt; Προτεινόμενη διάσταση: %1%%2% ψηφίδες. Θα περικοπεί εαν&#xE0; είναι &#xE8; εγκατεστημένο το ImageMagick.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/actions/editThemeAction.class.php</note>
       </trans-unit>
       <trans-unit id="44c57abd888a66b36d4b7c902134063e4a097223">
         <source>Reset</source>
-        <target>Reimposta</target>
+        <target>Ανανέωση</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/advancedSuccess.php</note>
       </trans-unit>
       <trans-unit id="5c4bc97ee5d0ac344829dbcef02d7302feb098a8">
         <source>Reset password</source>
-        <target>Reimposta la password</target>
+        <target>Ανανέωση κωδικού ασφαλείας</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="aa2a08d2afa23e5f0a3fbe6e6ed494979fd09160">
         <source>Restricted</source>
-        <target>Ristretto</target>
+        <target>Απαγορευμένο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="5de586111229c2b8cc98041889974bf6e62d0bc5">
         <source>Restriction</source>
-        <target>Limitazione</target>
+        <target>Περιορισμός</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="612e12d29278b5519294bc25cdaddffec6d0f1c6">
         <source>Results</source>
-        <target>Risultati</target>
+        <target>Αποτελέσματα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/_rightContextMenu.php</note>
       </trans-unit>
       <trans-unit id="edf5cae6658bdd12bd520fdb5c82a4050fe3b1ff">
         <source>Results %1% to %2% of %3%</source>
-        <target>Risultati da %1% a %2% di %3%</target>
+        <target>Αποτελέσματα του %1% σε %2% του %3%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_pager.php</note>
       </trans-unit>
       <trans-unit id="e08b0f0cdec57fe8860ddaf468b9e5654b98cc9d">
         <source>Results per page</source>
-        <target>Risultati per pagina</target>
+        <target>Αποτελέσματα ανά σελίδα</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="28450d20044e7998ad3a3fe030bb828c82ee534f">
         <source>Resumption token limit</source>
-        <target>Limite del &lt;i&gt;resumption token&lt;/i&gt; di OAI</target>
+        <target>Όριο της &lt;i&gt;συμβολικής συνέχισης&lt;/i&gt; του OAI</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
       <trans-unit id="d4504239e490946c5c5eba10229f1b132b794913">
         <source>Retrieval information</source>
-        <target>Informazioni sul recupero</target>
+        <target>Ανάκτηση Πληροφοριών<target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/itemListAction.class.php</note>
       </trans-unit>
       <trans-unit id="3beb9ad4036d0f72f3aa2194db1e01cab6f18fd0">
         <source>Revision</source>
-        <target>Revisione</target>
+        <target>Αναθεώρηση</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/actions/descriptionUpdatesAction.class.php</note>
       </trans-unit>
       <trans-unit id="db94ff6b8e95a22f9f280697b732e93363d52a25">
         <source>Rights</source>
-        <target>Diritti</target>
+        <target>Δικαιώματα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="8cff29ca527202f0e22bc35a2988e203eb9b832c">
         <source>Rights holder</source>
-        <target>Detentore di diritti</target>
+        <target>Κατοχή δικαιωμάτων</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_right.php</note>
       </trans-unit>
       <trans-unit id="3ff9ebc2344e1959d3d8767a5117dc8fbfb97b8c">
         <source>Rights note(s)</source>
-        <target>Note sui diritti</target>
+        <target>Σημειώσεις δικαιωμάτων</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="6c984ad3db08fbd18200777be5250b12f86463ab">
         <source>Rights records</source>
-        <target>Record sui diritti</target>
+        <target>Αρχείο δικαιωμάτων</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="e5de54b8438a97e505f8aa290e4f7fdeb0deed65">
         <source>Role/event</source>
-        <target>Ruolo/Evento</target>
+        <target>Ρόλος/Γεγονός</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_relatedEvents.php</note>
       </trans-unit>
       <trans-unit id="92e035492cb9dabc581c48a2aada210d3c3c1638">
         <source>Rules or conventions</source>
-        <target>Norme e convenzioni</target>
+        <target>Όροι της σύμβασης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="b05238350df07f1462b2388d81b7b3d39b6b2c1b">
@@ -2354,72 +2354,72 @@
       </trans-unit>
       <trans-unit id="2ecaa52bb87a8e004506091905cebf058d76277b">
         <source>SWORD deposit directory</source>
-        <target>Directory dei depositi SWORD</target>
+        <target>Κατάλογος της απόθεσης SWORD</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="6df74794c02a082a6a784cde86a2b95263645e31">
         <source>Sample OAI identifier</source>
-        <target>Codice identificativo del campione OAI</target>
+        <target>Δείγμα ΟΑΙ αναγνωριστικό</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
       <trans-unit id="efc007a393f66cdb14d57d385822a3d9e36ef873">
         <source>Save</source>
-        <target>Salva</target>
+        <target>Σώσε</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="ea2e6e20f4f7538609fcd6718e80dbb14019b0e1">
         <source>Scope and content</source>
-        <target>Ambito e contenuto</target>
+        <target>Αντικείμενο και περιεχόμενα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_searchFields.php</note>
       </trans-unit>
       <trans-unit id="2fb66c4d30b5f337a2ca3b2257642a8e20ef1dc7">
         <source>Scope note</source>
-        <target>Nota relativa all'ambito</target>
+        <target>Σημειώσεις αντικειμένου</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/taxonomy/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="698596c9a71ee6c0607fceb7f99ec7473f160a07">
         <source>Scope note(s)</source>
-        <target>Note relative all'ambito</target>
+        <target>Σημειώσεις αντικειμένων</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="ee6d6afa9f3aaa476cc5b9a2da788206cf784166">
         <source>Script</source>
-        <target>Scrittura</target>
+        <target>Κείμενο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="1543708613e125e019a3d514e7e0705a1500ac5d">
         <source>Script(s)</source>
-        <target>Scritture</target>
+        <target>Κείμενα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="bce06414177f72ab70e6387b6af9f8ceef0d6049">
         <source>Search</source>
-        <target>Cerca</target>
+        <target>Αναζήτηση</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/descriptionUpdatesSuccess.php</note>
       </trans-unit>
       <trans-unit id="80fd30729227f384f42d7613b1b17042797d3b87">
         <source>Search %1%</source>
-        <target>Cerca %1%</target>
+        <target>Αναζήτηση %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="f9a2d887d999eedcc55301af77722243d66881ca">
         <source>Search &lt;span&gt;%1%&lt;/span&gt;</source>
-        <target>Cerca &lt;span&gt;%1%&lt;/span&gt;</target>
+        <target>Αναζήτηση &lt;span&gt;%1%&lt;/span&gt;</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_box.php</note>
       </trans-unit>
       <trans-unit id="62a2fb9fb758669eedd379c2d5a4ba4dccba0e84">
         <source>Search filters</source>
-        <target>Cerca filtri</target>
+        <target>Φίλτρο Αναζήτησης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/advancedSuccess.php</note>
       </trans-unit>
       <trans-unit id="0f53c93d9994e1a2c8b1b75b5cd1b42056e37f3f">
         <source>Search for</source>
-        <target>Cerca</target>
+        <target>Αναζήτηση για</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_printAdvancedSearchTerms.php</note>
       </trans-unit>
       <trans-unit id="4b9d3f099ce6ddb8ea655f99a85cafe45e43e4b3">
         <source>Search for an existing term in the places taxonomy by typing the first few characters of the term name. Alternatively, type a new term to create and link to a new place term.</source>
-        <target>Cerca un termine esistente all'interno della Tassonomia dei luoghi, inserendo le prime lettere del termine. In alternativa, inserire un nuovo termine per creare e collegare un nuovo termine relativo ai luoghi.</target>
+        <target>Αναζήτηση για έναν υφιστάμενο όρο  ταξινομείται στα μέρη , τυπώνοντας τους πρώτους  χαρακτήρες του όρου. Εναλλακτικά, εισάγετε ένα νέο όρο  για δημιουργία και σύνδεση σε μια νέα θέση όρου.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/actions/eventComponent.class.php</note>
       </trans-unit>
       <trans-unit id="dfe7bd62ebcbe7311e61a9bfdd24a984def1777d">
@@ -2428,7 +2428,7 @@
       </trans-unit>
       <trans-unit id="7b87cb8b29c2dabaa88ef042d4f0360d896a9644">
         <source>Search rights holder</source>
-        <target>Cerca il detentore di diritti</target>
+        <target>Αναζήτηση δικαιούχου</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/rightsholder/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="cf07cee032f2ab38b474ab285e58b3b4aa402e1a">
@@ -2437,7 +2437,7 @@
       </trans-unit>
       <trans-unit id="ce846cb9c6912ddebddf1ecfe70e051593ff1f8b">
         <source>Search titles and identifiers</source>
-        <target>Cerca titoli e codici identificativi</target>
+        <target>Αναζήτηση τίτλων και αναγνωριστικών</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_treeView.php</note>
       </trans-unit>
       <trans-unit id="1bd6226dd19959e3c42406758ffa57d42399dfcc">
@@ -2446,7 +2446,7 @@
       </trans-unit>
       <trans-unit id="f25ce1b8a399bd8621a57427a20039b4b13935db">
         <source>Security</source>
-        <target>Sicurezza</target>
+        <target>Ασφάλεια</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="ccbf4b2840dfaad861a1f327ccd5126f3ab041a4">
