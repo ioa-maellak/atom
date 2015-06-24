@@ -1731,7 +1731,7 @@
       </trans-unit>
       <trans-unit id="709a23220f2c3d64d1e1d6d18c4d5280f8d82fca">
         <source>Name</source>
-        <target>Nome</target>
+        <target>Όνομα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="8145640077c0d7d46a0277a4172e50fd90647123">
@@ -1751,37 +1751,37 @@
       </trans-unit>
       <trans-unit id="686e9d435e96df2911e1e9ad77aa2c2ca1e8b7fc">
         <source>Name of the person(s) or organization(s) which has the authority to grant permissions or set rights restrictions.</source>
-        <target>Nome delle persone o degli enti che hanno l'autorit&#xE0; per assegnare permessi o stabilire delle limitazioni dei diritti.</target>
+        <target>Ονόματα των προσώπων ή οργανισμών τα οποία έχουν την εξουσία να ορίζουν δικαιόματα ή να θέτουν περιορισμούς δικαιωμάτων&#xE0; per assegnare permessi o stabilire delle limitazioni dei diritti.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/right/templates/_edit.php</note>
       </trans-unit>
       <trans-unit id="55e1a1044eeefc9a296691b9cda5f0c21e3f6dd6">
         <source>Narrow down your search results.</source>
-        <target>Restringi i risultati della ricerca.</target>
+        <target>Περιορίστε τα αποτελέσματα αναζήτησης.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_searchFields.php</note>
       </trans-unit>
       <trans-unit id="d850ee188c7c55b64bc3624534de5c5051a57dc6">
         <source>New password</source>
-        <target>Nuova password</target>
+        <target>Νέος κωδικός</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/passwordEditSuccess.php</note>
       </trans-unit>
       <trans-unit id="bc981983e7f547dc62e19a1e383acfe00782a6d5">
         <source>Next</source>
-        <target>Prossimo</target>
+        <target>Επόμενο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/_pager.php</note>
       </trans-unit>
       <trans-unit id="816c52fd2bdd94a63cd0944823a6c0aa9384c103">
         <source>No</source>
-        <target>No</target>
+        <target>Αριθμός</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="b993b0c537190bfc94b21360ac5abe51e56be36f">
         <source>No results</source>
-        <target>Nessun risultato</target>
+        <target>Κανένα αποτέλεσμα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/fileListError.php</note>
       </trans-unit>
       <trans-unit id="e9cc6d0e9a61da7cff0e049a68c0ecfd422d901c">
         <source>No results found.</source>
-        <target>Nessun risultato trovato.</target>
+        <target>Κανένα αποτέλεσμα δεν βρέθηκε.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_treeView.php</note>
       </trans-unit>
       <trans-unit id="e7c3d2225afaba2338575edd35fc684a608bc519">
@@ -1790,52 +1790,52 @@
       </trans-unit>
       <trans-unit id="6eef6648406c333a4035cd5e60d0bf2ecf2606d7">
         <source>None</source>
-        <target>Nessuno</target>
+        <target>Κανένα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemListSuccess.php</note>
       </trans-unit>
       <trans-unit id="ca1dd39379254ab3f3c73dbffb0d03d628b27d20">
         <source>Not</source>
-        <target>Non</target>
+        <target>Δεν</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/_searchFields.php</note>
       </trans-unit>
       <trans-unit id="2c924e3088204ee77ba681f72be3444357932fca">
         <source>Note</source>
-        <target>Nota</target>
+        <target>Σημείωση</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_dates.php</note>
       </trans-unit>
       <trans-unit id="7092111c85e62a86730fe88defa594fc920c21d1">
         <source>Note type</source>
-        <target>Tipo di nota</target>
+        <target>Είδος σημείωσης</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_notes.php</note>
       </trans-unit>
       <trans-unit id="70440046a3dc2e079f23ee1c57dfa76669b732aa">
         <source>Notes</source>
-        <target>Note</target>
+        <target>Σημειώσεις</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="323e1e8cf7fa9fe0cfe25b52d87a1cabc7e19fba">
         <source>Notes area</source>
-        <target>Area delle note</target>
+        <target>Χώρος σημειώσεων</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="677d22418736ba6cdfea3e12a31b554e779a8f6c">
         <source>OAI Repository</source>
-        <target>Deposito OAI</target>
+        <target>Αποθετήριο OAI</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="70e7c7c0accc43cc82244c8d52b59d8157148f6a">
         <source>OAI repository</source>
-        <target>Deposito OAI</target>
+        <target>Αποθετήριο OAI</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="9dc12469ad5ca5b434f542d06057b641103e6c0d">
         <source>OAI repository code</source>
-        <target>Codice del deposito OAI</target>
+        <target>Κωδικός αποθετηρίου OAI</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
       <trans-unit id="1532d65ee8af467a28b22294d88943777e5db47f">
         <source>OAI repository identifier</source>
-        <target>Codice identificativo del deposito OAI</target>
+        <target>Αναγνωριστικό αποθετηρίου OAI</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
       <trans-unit id="f66cd1bac11145db31d2c8b236d11017b162702c">
@@ -1845,12 +1845,12 @@
       </trans-unit>
       <trans-unit id="84fbaff689256f74f530326dda09b4730d0a28a9">
         <source>Only digital objects</source>
-        <target>Solo oggetti digitali</target>
+        <target>Μόνο ψηφιακά αντικείμενα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="201d45e256dd23055124e2cc676ca5195ba8929a">
         <source>Only hexadecimal color value</source>
-        <target>Valori del colore solo esadecimali</target>
+        <target>Μόνο δεκαεξαδική τιμή χρώματος </target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/repository/actions/editThemeAction.class.php</note>
       </trans-unit>
       <trans-unit id="32f03b751a9738dfef4f9ddbb3cb982769f8580f">
