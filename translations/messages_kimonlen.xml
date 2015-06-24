@@ -1631,17 +1631,17 @@
       </trans-unit>
       <trans-unit id="78f3842f0201c993fec13905f2ff9ec3fdd39056">
         <source>Master</source>
-        <target>Master</target>
+        <target>Κύριο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/editSuccess.php</note>
       </trans-unit>
       <trans-unit id="d8c6bb5a79933e8d9cc5ef9f91915300e9fd5595">
         <source>Max. size ~%1%</source>
-        <target>Dimensione massima ca. %1%</target>
+        <target>Μέγιστη διάσταση %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="9917379c2d4f57eb0424e346a3a86a01f46d0d49">
         <source>Maximum image width (pixels)</source>
-        <target>Profondit&#xE0; massima dell'immagine (in pixel)</target>
+        <target>Profondit&#xE0; Μέγιστο πλάτος εικόνας (σε pixel)</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="77e4c3cafd139ee7570c59e590c95d36052270ba">
