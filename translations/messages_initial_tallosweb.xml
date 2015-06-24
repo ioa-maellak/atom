@@ -6,7 +6,7 @@
     <body>
       <trans-unit id="a5162e31ab7277f79bebcb03364debdf5c0913b8">
         <source>"Record, when relevant, the start and the end date of the relationship." (ISDF 6.3) Enter the date as you would like it to appear in the show page for the function, using qualifiers and/or typographical symbols to express uncertainty if desired.</source>
-        <target>"Εγγραφή, όταν σχετίζεται η ημερομηνία έναρξης και τέλους της σχέσης." (ISDF 6.3). Εισάγετε την ημερομηνία όπως θα θέλατε να εμφανίζεται στην σελίδα προβολής για την συνάρτηση, χρησιμοποιώντας προσδιοριστές και/ή τυπογραφικά σύμβολα για να εκφράσουν την αβεβαιότητα αν είναι επιθυμητό.</target>
+        <target>"Εγγραφή, όταν σχετίζονται η ημερομηνία έναρξης και τέλους της σχέσης." (ISDF 6.3). Εισάγετε την ημερομηνία όπως θα θέλατε να εμφανίζεται στην σελίδα προβολής για την συνάρτηση, χρησιμοποιώντας προσδιοριστές και/ή τυπογραφικά σύμβολα για να εκφράσουν την αβεβαιότητα αν είναι επιθυμητό.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/relation/actions/editComponent.class.php</note>
       </trans-unit>
       <trans-unit id="d08f88df745fa7950b104e4a707a31cfce7b5841">
