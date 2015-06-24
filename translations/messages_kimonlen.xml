@@ -1646,87 +1646,87 @@
       </trans-unit>
       <trans-unit id="77e4c3cafd139ee7570c59e590c95d36052270ba">
         <source>Media type</source>
-        <target>Tipo di supporto</target>
+        <target>Τύπος αρχείου μέσων</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/settings/templates/visibleElementsSuccess.php</note>
       </trans-unit>
       <trans-unit id="a76ead518cfcaead43c551574680100d0eae9eb9">
         <source>Media types</source>
-        <target>Tipi di supporto</target>
+        <target>Τύποι αρχείων</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="14e7b612c404e9aba4f153eabdb3fbc2d2273dcc">
         <source>Mime-type</source>
-        <target>Tipo MIME</target>
+        <target>Είδος MIME</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/digitalobject/templates/_metadata.php</note>
       </trans-unit>
       <trans-unit id="6ec3edb989002548ae35d1040aeb306e1063392b">
         <source>Minimum value is "%min%"</source>
-        <target>Il valore minimo &#xE8; "%min%</target>
+        <target>Ελάχιστη τιμή είναι &#xE8; "%min%</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="4bab2d8fe13fa6ab57f80098b414f0f734c5dd25">
         <source>More</source>
-        <target>Altro</target>
+        <target>Ακόμη</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actions.php</note>
       </trans-unit>
       <trans-unit id="88ac2cf7230bd7f626ef49e4e5c391c6fb6b620e">
         <source>Most recent</source>
-        <target>Il pi&#xF9; recente</target>
+        <target>Το pi&#xF9; πιο προσφατο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/browseSuccess.php</note>
       </trans-unit>
       <trans-unit id="76cdb950721642b6b8596d36d5a39f7705028b99">
         <source>Move</source>
-        <target>Sposta</target>
+        <target>Μετακίνησε</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/_actions.php</note>
       </trans-unit>
       <trans-unit id="e6c567cff7e3e5bd9eee75a74134424ca1f87c1f">
         <source>Move %1%</source>
-        <target>Sposta %1%</target>
+        <target>Μετακίνησε %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/moveSuccess.php</note>
       </trans-unit>
       <trans-unit id="260ff8ae7182fc851337b6b2fdb25f8cac2b8d47">
         <source>Move down</source>
-        <target>Sposta in basso</target>
+        <target>Μετακίνησε κάτω</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="d6f5b75c92e201012666c9d9865972c786decb4e">
         <source>Move here</source>
-        <target>Sposta qui</target>
+        <target>Μετακίνησε εδώ</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/default/templates/moveSuccess.php</note>
       </trans-unit>
       <trans-unit id="00ff477e93991a5ac5a2ec9b3edd3bef3a8cbf34">
         <source>Move item down in list</source>
-        <target>Sposta l'oggetto in basso nella lista</target>
+        <target>Μετακίνησε το αντικείμενο κάτω στην λίστα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="0c4001c87d254218aa05fad0eb533b7e29f0cc8c">
         <source>Move item up in list</source>
-        <target>Sposta l'oggetto in alto nella lista</target>
+        <target>Μετακίνησε το αντικείμενο επάνω στην λίστα</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="b4f57cd0cd5c7d88461c1718646713dea47a36c9">
         <source>Move up</source>
-        <target>Sposta in alto</target>
+        <target>Μετακίνησε επάνω</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/menu/templates/listSuccess.php</note>
       </trans-unit>
       <trans-unit id="4cabc336936d959cad52b85662c69f5fe28abfa6">
         <source>Multiple repositories</source>
-        <target>Depositi multipli</target>
+        <target>Πολλαπλά αποθετήρια</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="829d3f90cd2f6c947e759770023279d92f51dbf5">
         <source>Mustn't contain ";"</source>
-        <target>Non deve contenere ";"</target>
+        <target>Δεν πρέπει να περιέχει ";"</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/staticpage/actions/editAction.class.php</note>
       </trans-unit>
       <trans-unit id="08d2e98e6754af941484848930ccbaddfefe13d6">
         <source>N/A</source>
-        <target>Non disponibile</target>
+        <target>Μη διαθέσιμο</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/itemListSuccess.php</note>
       </trans-unit>
       <trans-unit id="dda732457e50448515bda76d3097e113cf5ef8c3">
         <source>NT %1%</source>
-        <target>NT (termine pi&#xF9; specifico) %1%</target>
+        <target>NT (όρος pi&#xF9; σαφής) %1%</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="709a23220f2c3d64d1e1d6d18c4d5280f8d82fca">
@@ -1736,7 +1736,7 @@
       </trans-unit>
       <trans-unit id="8145640077c0d7d46a0277a4172e50fd90647123">
         <source>Name - A term with this name already exists.</source>
-        <target>Nome - Un termine con questo nome esiste gi&#xE0;.</target>
+        <target>Όνομα - Ένας όρος με αυτό το όνομα υπάρχει ήδη&#xE0;.</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/term/actions/indexAction.class.php</note>
       </trans-unit>
       <trans-unit id="251006aa22cca67e85ec99139025f677599ff651">
