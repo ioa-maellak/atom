@@ -2879,22 +2879,22 @@
       </trans-unit>
       <trans-unit id="0531a250c2ceda63e83f80c6589166e5f240acd9">
         <source>This user has %1% notes in the system and therefore it cannot be removed</source>
-        <target>Questo utente ha %1% note nel sistema e quindi non pu&#xF2; essere rimosso.</target>
+        <target>Αυτός ο χρήστης έχει %1% σημειώσεις στο σύστημα και ως εκ τούτου δεν μπορεί&#xF2;να αφαιρεθεί</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="3a70a8b43589e3fe6afc33db59d796bd3f6db4a9">
         <source>This user is inactive</source>
-        <target>Questo utente non &#xE8; attivo</target>
+        <target>Αυτός ο χρήστης δεν είναι &#xE8; ενεργός</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/user/templates/indexSuccess.php</note>
       </trans-unit>
       <trans-unit id="dad477e820763b21cbc8e7f98438d61c0e709287">
         <source>This value can not be greater than %max% pixels</source>
-        <target>Questo valore non pu&#xF2; essere maggiore di %max% pixel</target>
+        <target>Αυτή η τιμή δεν&#xF2; μπορεί να είναι μεγαλύτερη από %max% εικονοστοιχεία </target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="0f4a0afe7429de9cda7f8339c30d31008fab38c0">
         <source>This value cannot be more than %max%</source>
-        <target>Questo valore non pu&#xF2; essere maggiore di %max%</target>
+        <target>Αυτή η τιμή δεν&#xF2; μπορεί να είναι περισσότερο από την %max%</target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsOaiRepositoryForm.class.php</note>
       </trans-unit>
       <trans-unit id="c94459defbdd83540cb0246d9fbe79115c527fe9">
@@ -2963,7 +2963,7 @@
       </trans-unit>
       <trans-unit id="3deb7456519697ecf4eefc455516c969a3681bae">
         <source>Type</source>
-        <target>Tipo</target>
+        <target>Τύπος</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/informationobject/templates/physicalObjectsSuccess.php</note>
       </trans-unit>
       <trans-unit id="37ddce79eb102de9b2c21ff4440b283f0f584af1">
@@ -3151,7 +3151,7 @@
       </trans-unit>
       <trans-unit id="917e570a8a4bd0ac7d268c641cecf74082508bb1">
         <source>You cannot show more than %max% hits per page</source>
-        <target>Non &#xE8; possibile mostrare pi&#xF9; di %max% risultati per pagina</target>
+        <target>Δεν&#xE8; είναι δυνατόν να δείξει περισσότερα&#xF9; από %max% αποτελέσματα ανά σελίδα </target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="ae5883a623518731e3e0ce34b99c181ffbe9f069">
@@ -3166,7 +3166,7 @@
       </trans-unit>
       <trans-unit id="5b8d7eb4c328e630fac3c1f8df87917cba800edd">
         <source>You must show at least %min% hits per page</source>
-        <target>Mostra almeno %min% risultati per pagina</target>
+        <target>Εμφάνιση τουλάχιστον %min% αποτελέσματα ανά σελίδα </target>
         <note>https://github.com/artefactual/atom/blob/master/lib/form/SettingsGlobalForm.class.php</note>
       </trans-unit>
       <trans-unit id="c36d5e6158429222401afa00fc07d09f75b74668">
@@ -3196,7 +3196,7 @@
       </trans-unit>
       <trans-unit id="4b7f6892e0134e4041bca5153ccf325f8954bc08">
         <source>all matching descriptions</source>
-        <target>tutte le descrizioni che corrispondono</target>
+        <target>Όλες οι περιγραφές που ταιριάζουν</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/autocompleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="a432f47c583b6f5f2985564b4ab2bd8ecd2a165d">
@@ -3206,7 +3206,7 @@
       </trans-unit>
       <trans-unit id="00dc901744d0815deb433538619d579e669af7a7">
         <source>all matching people &amp; organizations</source>
-        <target>tutti le persone e gli enti che corrispondono</target>
+        <target>Για όλους τους ενδιαφερόμενους και τις υπηρεσίες τους</target>
         <note>https://github.com/artefactual/atom/blob/master/apps/qubit/modules/search/templates/autocompleteSuccess.php</note>
       </trans-unit>
       <trans-unit id="a5874a93818b5dca4f2ae61ab2fef2ed219b0072">
